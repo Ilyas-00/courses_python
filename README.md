@@ -5,7 +5,7 @@ These are my personal notes from a NumPy course. The notes are divided into two 
 ## Part 2/3
 
 ### Basic NumPy Operations
-
+ 
 In this part, we covered the basics of working with NumPy arrays.
 
 #### Array Creation
