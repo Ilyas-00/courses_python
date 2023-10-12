@@ -47,5 +47,3 @@ Feel free to use and share these notes, and check out the code and examples in t
 
 Happy coding!
 
-[Link to Part 2/3](link-to-part-2-notes.md) | [Link to Part 3/3](link-to-part-3-notes.md)
-
